@@ -86,7 +86,7 @@ const ayush = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ayusharnindkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ayusharnindkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,7 +94,7 @@ const ayush = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayusharnindkumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=ayusharnindkumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
